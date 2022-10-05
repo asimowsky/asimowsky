@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asimowsky
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning React
+- ⚛️ I’m currently learning React
 - 📫 How to reach me https:bit.ly/kebirasim
 
 <!---
