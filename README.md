@@ -1,4 +1,4 @@
-[![MasterHead]([https://github.com/asimowsky/asimowsky/assets/35933971/942d98f5-b3e5-45b2-8fb3-945da9f5a0be))]()
+![1500x500](https://github.com/asimowsky/asimowsky/assets/35933971/7c8513cd-23d2-4459-9a17-2ab4a12bb7e8)
 <h1 align="center">Hi 👋, I'm Asimowsky</h1>
 <h3 align="center">A passionate frontend developer from Skopje</h3>
 <img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
