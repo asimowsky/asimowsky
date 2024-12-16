@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/asimowsky/](https://github.com/asimowsky/)
 
-- 📝 I regularly write articles on [kebirasim.netlify.app](kebirasim.netlify.app)
+- 📝 I regularly write articles onv ...
 
 - 💬 Ask me about **React**
 
